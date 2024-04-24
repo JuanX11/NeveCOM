@@ -1,6 +1,6 @@
-# Conteibol
+# NeveCOM
 
-This template should help get you started developing with Vue 3 in Vite.
+Es un Proyecto Personal para el hogar de organización de remesas y gestión de compras en tienda
 
 ## Recommended IDE Setup
 
